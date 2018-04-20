@@ -49,3 +49,5 @@ git reset --hard xxxx
 git log
 23.查看状态
 git status
+24.初始化仓库
+git init
